@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+*/.idea
+*/cmake-build-debug
+
+GDB_capacity/*
+!GDB_capacity/README.md
